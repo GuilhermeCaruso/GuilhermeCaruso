@@ -1,16 +1,17 @@
-### Hi there 👋
+# Guilherme Caruso
 
-<!--
-**GuilhermeCaruso/GuilhermeCaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55119474997746&text=Olá!)](https://api.whatsapp.com/send?phone=5512988344336&text=Oba!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/guicaruso)](https://t.me/guicaruso)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guicaruso/)](https://www.linkedin.com/in/guicaruso/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui.martinscaruso@gmail.com)](mailto:gui.martinscaruso@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/guicaruso_)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello! 👋
+
+My name is Guilherme Caruso, I'm 23 and I'm a brazilian **Software Engineer** focused on **Backend** and **Devops** engineering.
+
+- :office_worker: I currently work as Senior Software Engineer at [**Estratégia Educacional**](https://www.estrategiaconcursos.com.br/)
+- :hammer: Go, Rust, C whatever else is needed (Why not learn? :metal:)
+
+> :octocat: [guicaruso.dev](https://guicaruso.dev)
