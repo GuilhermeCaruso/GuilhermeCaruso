@@ -12,6 +12,6 @@
 My name is Guilherme Caruso, I'm 23 and I'm a brazilian **Software Engineer** focused on **Backend** and **Devops** engineering.
 
 - :office_worker: I currently work as Senior Software Engineer at [**Estratégia Educacional**](https://www.estrategiaconcursos.com.br/)
-- :hammer: Go, Rust, C whatever else is needed (Why not learn? :metal:)
+- :hammer: Go, Rust, C and whatever else is needed (Why not learn? :metal:)
 
 > :octocat: [guicaruso.dev](https://guicaruso.dev)
