@@ -6,8 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui.martinscaruso@gmail.com)](mailto:gui.martinscaruso@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/guicaruso_)
 
-
-## Hello! 👋
+---
 
 My name is Guilherme Caruso, I'm 23 and I'm a brazilian **Software Engineer** focused on **Backend** and **Devops** engineering.
 
