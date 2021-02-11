@@ -10,6 +10,6 @@
 
 My name is Guilherme Caruso, I'm 23 and I'm a brazilian **Software Engineer** focused on **Backend** and **Devops** engineering.
 
-- :office: I currently work as Senior Software Engineer at [**Estratégia Educacional**](https://www.estrategiaconcursos.com.br/)
+- :office: I currently work as Senior Software Engineer at [**Isaac**](https://www.olaisaac.com.br/)
 - :computer: Go, Rust, C and whatever else is needed (Why not learn? :metal:)
 - :globe_with_meridians: [guicaruso.dev](https://guicaruso.dev)
