@@ -1,5 +1,5 @@
 # Guilherme Caruso
-> Deployed in 97's. Currently in version 2.3
+> Deployed in 97's. Currently in version 2.4
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55119474997746&text=Oba!)](https://api.whatsapp.com/send?phone=55119474997746&text=Oba!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/guicaruso)](https://t.me/guicaruso)
