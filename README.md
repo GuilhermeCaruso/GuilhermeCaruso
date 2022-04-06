@@ -3,6 +3,6 @@
 
 I'm a brazilian **Software Engineer** focused on **Backend** and **Devops** engineering.
 
-- :office: I currently work as Senior Software Engineer at [**Isaac**](https://www.olaisaac.com.br/)
+- :office: I currently work as Staff Software Engineer at [**Isaac**](https://www.olaisaac.com.br/)
 - :computer: Go, Rust, C and whatever else is needed (Why not learn? :metal:)
 - :globe_with_meridians: [guicaruso.dev](https://guicaruso.dev)
