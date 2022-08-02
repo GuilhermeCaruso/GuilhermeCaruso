@@ -1,5 +1,5 @@
 # Guilherme Caruso
-> Deployed in 97's. Currently in version 2.4
+> Deployed in 97's. Currently in version 2.5
 
 I'm a brazilian **Software Engineer** focused on **Backend** and **Devops** engineering.
 
