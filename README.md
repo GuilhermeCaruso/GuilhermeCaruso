@@ -1,8 +1,8 @@
 # Guilherme Caruso
-> Deployed in 97's. Currently in version 2.5
+> Deployed in 97's. Currently in version 2.6
 
 I'm a brazilian **Software Engineer** focused on **Backend** and **Devops** engineering.
 
-- :office: I currently work as Staff Software Engineer at [**Isaac**](https://www.olaisaac.com.br/)
+- :office: I currently work as Staff Software Engineer at [**Will Bank**](https://www.willbank.com.br/)
 - :computer: Go, Rust, C and whatever else is needed (Why not learn? :metal:)
 - :globe_with_meridians: [guicaruso.dev](https://guicaruso.dev)
