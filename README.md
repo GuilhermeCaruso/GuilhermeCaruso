@@ -3,6 +3,6 @@
 
 I'm a brazilian **Software Engineer** focused on **Backend** and **Devops** engineering.
 
-- :office: I currently work as Staff Software Engineer at [**Will Bank**](https://www.willbank.com.br/)
+- :office: I currently work at [**Pilea Labs**](https://www.pilealabs.com/)
 - :computer: Go, Rust, C and whatever else is needed (Why not learn? :metal:)
 - :globe_with_meridians: [guicaruso.dev](https://guicaruso.dev)
